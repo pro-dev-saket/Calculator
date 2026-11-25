@@ -26,6 +26,9 @@ class Main{
         else if(operator == '*'){
             System.out.println(a*b);
         }
+        else {
+            System.out.println("Invalid input");
+        }
 
 
     }
